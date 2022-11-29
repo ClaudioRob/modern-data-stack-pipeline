@@ -4,13 +4,13 @@ Repository course Modern Data Stack Pipeline of the Stack Tecnologias
 Tarefas:
 
 Infraestrutura:
-    Setup do ambiente de desenvolvimento (Hardware, Software - Linux, Python, Docker, Curl, Pip, Git, Npm, etc...) X
-    Setar as Permissoes do Gitpod ao Repositorio no Github X
-    Subir o Airbyte via docker X
-    Subir o Airflow via docker X
-    Subir o Metabase via docker X
-    Criar o script de execução ?
-    Testar a Execução ?
+    Setup do ambiente de desenvolvimento (Hardware, Software - Linux, Python, Docker, Curl, Pip, Git, Npm, etc...) \
+    Setar as Permissoes do Gitpod ao Repositorio no Github \
+    Subir o Airbyte via docker \
+    Subir o Airflow via docker \
+    Subir o Metabase via docker \
+    Criar o script de execução \
+    Testar a Execução \
 
 Snowflake Data Warehouse:
     Criar a Conta no SnowFlake X
