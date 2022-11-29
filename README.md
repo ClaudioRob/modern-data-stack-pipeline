@@ -3,27 +3,27 @@ Repository course Modern Data Stack Pipeline of the Stack Tecnologias
 
 Tarefas:
 
-Infraestrutura:\
-* Setup do ambiente de desenvolvimento (Hardware, Software - Linux, Python, Docker, Curl, Pip, Git, Npm, etc...) \
-* Setar as Permissoes do Gitpod ao Repositorio no Github \
-* Subir o Airbyte via docker \
-* Subir o Airflow via docker \
-* Subir o Metabase via docker \
-* Criar o script de execução \
+Infraestrutura:
+* Setup do ambiente de desenvolvimento (Hardware, Software - Linux, Python, Docker, Curl, Pip, Git, Npm, etc...)
+* Setar as Permissoes do Gitpod ao Repositorio no Github
+* Subir o Airbyte via docker
+* Subir o Airflow via docker
+* Subir o Metabase via docker
+* Criar o script de execução
 * Testar a Execução
 
-Snowflake Data Warehouse:\
-    Criar a Conta no SnowFlake \
-    Verificar a existência das tabelas \
-    Obter os links de conexão e nome da conta
+Snowflake Data Warehouse:
+* Criar a Conta no SnowFlake
+* Verificar a existência das tabelas
+* Obter os links de conexão e nome da conta
 
-Extração: \
-No Airbyte: \
-    Conectar com as origens baseadas nos Csvs \
-    Criar as entidades no snowflake através do script base da documentação \
-    Conectar o destino no snowflake \
-    Criar as conexões do airbyte associando as origens ao destino \
-    Testar as conexões
+Extração:
+* No Airbyte:
+* Conectar com as origens baseadas nos Csvs
+* Criar as entidades no snowflake através do script base da documentação
+* Conectar o destino no snowflake
+* Criar as conexões do airbyte associando as origens ao destino
+* Testar as conexões
 
 Preparação:\
 No Airbyte (Destination Loading Method):\
