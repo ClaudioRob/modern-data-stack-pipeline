@@ -10,12 +10,12 @@ Infraestrutura:\
     Subir o Airflow via docker \
     Subir o Metabase via docker \
     Criar o script de execução \
-    Testar a Execução \
+    Testar a Execução
 
 Snowflake Data Warehouse:\
     Criar a Conta no SnowFlake \
     Verificar a existência das tabelas \
-    Obter os links de conexão e nome da conta \
+    Obter os links de conexão e nome da conta
 
 Extração: \
 No Airbyte: \
@@ -23,12 +23,12 @@ No Airbyte: \
     Criar as entidades no snowflake através do script base da documentação \
     Conectar o destino no snowflake \
     Criar as conexões do airbyte associando as origens ao destino \
-    Testar as conexões \
+    Testar as conexões
 
 Preparação:\
 No Airbyte (Destination Loading Method):\
     Local Staging (Ambiente de Desenvolvimento) \
-    Cloud Staging (Ambiente de Produção) \
+    Cloud Staging (Ambiente de Produção)
 
 Transformação:\
 No Dbt:\
@@ -42,7 +42,7 @@ No Dbt:\
     Visualização gráfica do modelo \
     Teste de execução \
     Commits, Branches, Pull Requests, Merges no Github \
-    Obtenção do link de conexão com o Airbyte \
+    Obtenção do link de conexão com o Airbyte
 
 Visualização:\
 No Metabase:\
@@ -50,7 +50,7 @@ No Metabase:\
     Criar uma Question \
     Criar um Dashboard \
     Adicionar uma Question \
-    Visualizar o Resultado \
+    Visualizar o Resultado
 
 Orquestração:\
 No Airflow:\
@@ -60,11 +60,11 @@ No Airflow:\
     Setup Up no serviço \
     Testar a conexao entre os containers do airflow e do airbyte \
     Criar as conexões com o Airbyte através do script \
-    Testar a execução do pipeline \
+    Testar a execução do pipeline
 
 Encerramento: \
 
 Material de Apoio:\
     Links \
     Códigos fonte \
-    Apresentação \
+    Apresentação
