@@ -19,11 +19,11 @@ Snowflake Data Warehouse:
 
 Extração:
 * No Airbyte:
-* Conectar com as origens baseadas nos Csvs
-* Criar as entidades no snowflake através do script base da documentação
-* Conectar o destino no snowflake
-* Criar as conexões do airbyte associando as origens ao destino
-* Testar as conexões
+    * Conectar com as origens baseadas nos Csvs
+    * Criar as entidades no snowflake através do script base da documentação
+    * Conectar o destino no snowflake
+    * Criar as conexões do airbyte associando as origens ao destino
+    * Testar as conexões
 
 Preparação:\
 No Airbyte (Destination Loading Method):\
