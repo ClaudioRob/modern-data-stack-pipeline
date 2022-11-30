@@ -9,8 +9,8 @@ Infraestrutura:
 * Subir o Airbyte via docker
 * Subir o Airflow via docker
 * Subir o Metabase via docker
-* Criar o script de execução
-* Testar a Execução
+* Criar o script de execução - ?
+* Testar a Execução - ?
 
 Snowflake Data Warehouse:
 * Criar a Conta no SnowFlake
